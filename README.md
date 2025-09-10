@@ -12,7 +12,6 @@ The following required functionality is completed:
 List anything else that you can get done to improve the app functionality!
 Video Walkthrough
 
-prework
 <img width="268" height="573" alt="Screenshot 2025-09-09 195059" src="https://github.com/user-attachments/assets/d71b019f-37f2-475d-932e-29ecbb1b6f95" />
 
 
