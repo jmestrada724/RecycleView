@@ -12,9 +12,10 @@ The following required functionality is completed:
 List anything else that you can get done to improve the app functionality!
 Video Walkthrough
 
-<img width="268" height="573" alt="Screenshot 2025-09-09 195059" src="https://github.com/user-attachments/assets/d71b019f-37f2-475d-932e-29ecbb1b6f95" />
+
+![lab2](https://github.com/user-attachments/assets/e1c74637-60f5-41c7-b9fa-9fdc0684e2bd)
 
 
 
 Notes
-The app was a bet slow at times, it was hard to see what text would actually show in the app.
+The app was a bit slow at times, and it was hard to see what text would actually show up in the app.
